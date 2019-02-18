@@ -1,3 +1,3 @@
 <?php
-	echo"E aí";
+	echo"E aí testando";
 ?>
